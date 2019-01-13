@@ -2,3 +2,18 @@ body {
     font-family: helvetica;
     text-align: center;
 }
+
+/* Header */
+.header {
+    color: white;
+    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.nav {
+    color: white;
+    font-size: 18px;
+}
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
